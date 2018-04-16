@@ -1,0 +1,2022 @@
+header .btn_block {
+    position: absolute;
+    top: 7px;
+    right: 10px
+}
+
+.wedding_wrap p {
+    margin: 0;
+    padding: 0 5px
+}
+
+.profile_detail_txtbox {
+    position: relative;
+    height: 81px !important
+}
+
+.profile_detail_txtbox,
+.want_partner {
+    background: #fff
+}
+
+.show {
+    display: block
+}
+
+.hide {
+    display: none
+}
+
+.info_msg_box {
+    word-break: break-all
+}
+
+.pr_photo_box {
+    position: relative;
+    width: 33%;
+    height: 95px;
+    margin: 10px 0 0 0
+}
+
+.pr_photo_box .p_x {
+    position: relative;
+    top: -96px;
+    left: 75px
+}
+
+.profile_photo_box2 {
+    position: relative;
+    display: block;
+    float: left;
+    width: 70px;
+    height: 60px;
+    margin-top: 9px;
+    margin-right: 8px;
+    margin-left: 8px;
+    border: 1px solid #beb7a9;
+    background-color: #fff
+}
+
+.profile_photo_box2 .plofile_photo {
+    display: none
+}
+
+.profile_photo_box2 .btn_photo_del {
+    display: none;
+    position: absolute;
+    top: 30px;
+    left: 50px
+}
+
+.profile_photo_box2 .plofile_photo {
+    display: block;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    width: 68px;
+    height: 58px;
+    border: 0;
+    border-radius: 0;
+    moz-border-radius: 0;
+    webkit-border-radius: 0
+}
+
+.profile_photo_box2 .plofile_photo img {
+    width: 100%;
+    height: 100%;
+    border-radius: 0;
+    moz-border-radius: 0;
+    webkit-border-radius: 0
+}
+
+.profile_photo_box2 .btn_photo_del {
+    position: absolute;
+    top: -5px;
+    left: 55px
+}
+
+.profile_photo_box2 .number {
+    position: absolute;
+    top: -6px;
+    right: -6px;
+    display: block;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 11px;
+    line-height: 24px;
+    font-weight: bold;
+    width: 24px;
+    height: 24px;
+    background: #3c3;
+    color: #fff;
+    border-radius: 12px
+}
+
+.profile_photo_box2 .btn_photo_regi {
+    position: absolute;
+    top: 11px;
+    left: 2px;
+    z-index: 16
+}
+
+.profile_photo_box2 .btn_photo_regi img {
+    width: 65px;
+    height: 37px
+}
+
+.profile_photo_box2 img {
+    width: 70px;
+    height: 60px;
+    object-fit: cover
+}
+
+.add_btn {
+    display: inline-block;
+    width: 65px;
+    height: 28px;
+    background: -moz-linear-gradient(top, #fff 0, #ececec 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(100%, #ececec));
+    background: -webkit-linear-gradient(top, #fff 0, #ececec 100%);
+    background: -o-linear-gradient(top, #fff 0, #ececec 100%);
+    background: linear-gradient(to bottom, #fff 0, #ececec 100%);
+    border-radius: 5px;
+    border: 1px solid #adadad;
+    text-align: center;
+    line-height: 28px;
+    font-size: .9em;
+    float: right;
+    margin-top: 3px
+}
+
+.info_text .save_photo {
+    clear: both;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    color: #b80a0e;
+    letter-spacing: -1px;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 3px
+}
+
+.info_text {
+    margin-bottom: 3px
+}
+
+.new_button_box {
+    width: 100%;
+    height: 50px;
+    background-color: #b6bbbf;
+    border-bottom: 2px solid #393e4b
+}
+
+.new_button_box ul {
+    margin: 0;
+    padding: 0
+}
+
+.new_button_box ul li {
+    display: inline;
+    float: left;
+    margin-top: 4px;
+    text-align: center;
+    width: 33.3%
+}
+
+.btn_new {
+    display: block;
+    background: -moz-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(100%, #ededed));
+    background: -webkit-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -o-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -ms-linear-gradient(top, #fff 0, #ededed 100%);
+    background: linear-gradient(to bottom, #fff 0, #ededed 100%);
+    width: 94%;
+    margin: 0 auto;
+    margin-left: 4px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    font-size: 12px;
+    line-height: 40px;
+    text-align: center
+}
+
+.btn_new_last {
+    display: block;
+    background: -moz-linear-gradient(top, #50393a 0, #341d1e 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #50393a), color-stop(100%, #341d1e));
+    background: -webkit-linear-gradient(top, #50393a 0, #341d1e 100%);
+    background: -o-linear-gradient(top, #50393a 0, #341d1e 100%);
+    background: -ms-linear-gradient(top, #50393a 0, #341d1e 100%);
+    background: linear-gradient(to bottom, #50393a 0, #341d1e 100%);
+    width: 94%;
+    margin: 0 auto;
+    margin-left: 4px;
+    border-radius: 5px;
+    border: 1px solid #50393a;
+    font-size: 12px;
+    line-height: 40px;
+    text-align: center
+}
+
+.btn_disable {
+    display: block;
+    background-color: #eaeaea;
+    width: 94%;
+    margin: 0 auto;
+    margin-left: 4px;
+    border-radius: 5px;
+    border: 1px solid #eaeaea;
+    font-size: 12px;
+    line-height: 40px;
+    text-align: center
+}
+
+.btn_disable img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 2px;
+    margin-right: 4px
+}
+
+.btn_new img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 2px;
+    margin-right: 4px
+}
+
+.btn_new_last img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 2px;
+    margin-right: 4px
+}
+
+.font_block {
+    color: #6c6767
+}
+
+.font_interest {
+    color: #db5940
+}
+
+.font_talk {
+    color: #fff
+}
+
+.font_disable {
+    color: #d1d1d1
+}
+
+.my_coin_txt {
+    padding-left: 15px;
+    color: #fff;
+    font-size: 15px
+}
+
+.my_coin_txt span {
+    color: #fff300;
+    text-align: right
+}
+
+.btn_cash_recharge {
+    display: inline-block;
+    float: right;
+    width: 80px;
+    height: 35px;
+    margin-top: 2px;
+    margin-right: 5px;
+    border: 1px solid #685128;
+    border-radius: 5px;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #fff400), color-stop(1, #ffce00));
+    background: -moz-linear-gradient(top, #fff400 5%, #ffce00 100%);
+    background: -webkit-linear-gradient(top, #fff400 5%, #ffce00 100%);
+    background: -o-linear-gradient(top, #fff400 5%, #ffce00 100%);
+    background: -ms-linear-gradient(top, #fff400 5%, #ffce00 100%);
+    background: linear-gradient(to bottom, #fff400 5%, #ffce00 100%);
+    background-color: #fff400;
+    color: #685128;
+    font-size: 13px;
+    line-height: 16px
+}
+
+.btn_detail {
+    display: inline-block;
+    position: relative;
+    float: right;
+    margin-top: 2px;
+    margin-right: 8px;
+    padding: 1px 15px 1px 11px;
+    border: 1px solid #cfcfcf;
+    border-radius: 3px;
+    background: -moz-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(100%, #ededed));
+    background: -webkit-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -o-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -ms-linear-gradient(top, #fff 0, #ededed 100%);
+    background: linear-gradient(to bottom, #fff 0, #ededed 100%);
+    font-size: 12px;
+    text-align: center;
+    line-height: 25px
+}
+
+.btn_detail .photo_num {
+    display: block;
+    position: absolute;
+    top: -2px;
+    right: -8px;
+    width: 18px;
+    height: 18px;
+    border-radius: 18px;
+    background-color: #3c3;
+    color: #fff;
+    line-height: 18px;
+    box-shadow: 1px 1px 2px #c8c8c8
+}
+
+.info_txt_list div {
+    position: relative;
+    display: block;
+    height: auto;
+    color: #727272;
+    font-size: 13px;
+    line-height: 32px;
+    padding: 0
+}
+
+#blank {
+    display: inline-block;
+    width: 11px
+}
+
+.profile_info_txt {
+    width: 45.5625%;
+    margin-top: 10px
+}
+
+.profile_info_txt.other {
+    width: 70.5625%;
+    margin-top: 9px
+}
+
+.profile_info_txt.kmode {
+    margin-top: 9px
+}
+
+.ico_arrang_mem {
+    display: inline-block;
+    float: right;
+    padding-top: 10px;
+    padding-right: 16px
+}
+
+.arrange_pre_photo {
+    display: block;
+    width: 55px;
+    height: 55px;
+    margin: 5px 0;
+    border: 1px solid #beb7a9
+}
+
+.arrange_pre_photo img {
+    width: 53px;
+    height: 53px;
+    margin-top: 1px;
+    margin-left: 1px
+}
+
+.arrange_info_txt {
+    position: absolute;
+    top: 12px;
+    left: 69px;
+    margin: 0;
+    padding: 0;
+    color: #727272;
+    font-size: 13px;
+    letter-spacing: -1px
+}
+
+.arrange_info_txt li {
+    width: 122%;
+    margin-bottom: 2px;
+    list-style: none
+}
+
+.arrange_info_txt span {
+    color: #263238
+}
+
+.arrange_msg_box {
+    display: block;
+    height: auto;
+    padding: 10px 10px;
+    overflow: hidden;
+    color: #727272;
+    font-size: 14px
+}
+
+.profile_look_box {
+    position: relative;
+    clear: both;
+    width: 100%;
+    height: 40px;
+    margin: 0 0 3px 0;
+    border-bottom: 1px solid #483334
+}
+
+.profile_look_box img {
+    float: left
+}
+
+.info_txt_list div span {
+    margin-left: 10px;
+    text-overflow: inherit;
+    white-space: normal;
+    font-size: 13px
+}
+
+.prime_secret_box {
+    display: inline-block !important;
+    position: absolute;
+    top: 4px;
+    left: 70px;
+    width: 55% !important;
+    height: 24px;
+    border-bottom: 1px solid #fcd469;
+    background: #666 url(http://image.yeoboya.com/imgs/new_wedding/prime/img_pattern_prime.png) repeat;
+    text-align: center;
+    line-height: 27px;
+    cursor: pointer
+}
+
+.btn_fam_secret {
+    display: inline-block;
+    top: 4px;
+    right: 0;
+    margin-left: 10px;
+    padding: 4px 8px;
+    border: 1px solid #d5d5d5;
+    border-radius: 3px;
+    background: #fefefe;
+    background: -moz-linear-gradient(top, #fefefe 0, #eee 100%);
+    background: -webkit-linear-gradient(top, #fefefe 0, #eee 100%);
+    background: linear-gradient(to bottom, #fefefe 0, #eee 100%);
+    color: #555f64;
+    line-height: 16px;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fefefe', endColorstr='#eeeeee', GradientType=0);
+    font-size: 12px
+}
+
+.mg_right {
+    margin-right: -30px
+}
+
+.mypoint_secret {
+    display: inline-block;
+    position: absolute;
+    top: 4px
+}
+
+.mypoint_open {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 235px;
+    font-size: 14px
+}
+
+.photo_prime_bg {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    width: 85px;
+    height: 85px
+}
+
+@media(min-width:360px) {
+    .info_txt_list div span {
+        width: 235px
+    }
+    .prime_secret_box {
+        width: 60% !important
+    }
+    .first_head {
+        font-size: 14px !important
+    }
+    .first_head img {
+        margin-left: 8px !important
+    }
+    .pr_photo_box .p_x {
+        left: 82px
+    }
+}
+
+@media(min-width:375px) {
+    .info_txt_list div span {
+        width: 250px
+    }
+    .prime_secret_box {
+        width: 62% !important
+    }
+}
+
+@media(min-width:414px) {
+    .info_txt_list div span {
+        width: 280px
+    }
+    .prime_secret_box {
+        width: 66% !important
+    }
+    .pr_photo_box .p_x {
+        left: 89px
+    }
+}
+
+@media(min-width:768px) {
+    .info_txt_list div span {
+        width: 565px
+    }
+    .prime_secret_box {
+        width: 77% !important
+    }
+    .pr_photo_box .p_x {
+        left: 143px
+    }
+}
+
+.fam_prime_txt {
+    display: inline-block !important;
+    float: left !important;
+    width: 100% !important;
+    height: 24px;
+    margin: 4px 0;
+    border-bottom: 1px solid #fcd469;
+    background: #666 url(http://image.yeoboya.com/imgs/new_wedding/prime/img_pattern_prime.png) repeat;
+    text-align: center;
+    line-height: 27px
+}
+
+.btn_fam_look {
+    display: inline-block;
+    margin-left: 5px;
+    padding: 4px 8px;
+    border: 1px solid #d5d5d5;
+    border-radius: 3px;
+    background: #fefefe;
+    background: -moz-linear-gradient(top, #fefefe 0, #eee 100%);
+    background: -webkit-linear-gradient(top, #fefefe 0, #eee 100%);
+    background: linear-gradient(to bottom, #fefefe 0, #eee 100%);
+    color: #555f64;
+    line-height: 16px;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fefefe', endColorstr='#eeeeee', GradientType=0);
+    font-size: 12px
+}
+
+.photo_prime_bg {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    width: 85px;
+    height: 85px
+}
+
+.filter_blur {
+    filter: blur(2px);
+    filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='2px');
+    -webkit-filter: blur(2px);
+    -ms-filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='2px');
+    -ms-filter: blur(2px)
+}
+
+.pr_photo {
+    position: relative
+}
+
+.etc_secret {
+    position: relative;
+    display: block;
+    height: 33px;
+    color: #727272;
+    font-size: .9em;
+    line-height: 32px;
+    padding: 0
+}
+
+.prime_secret_box_02 {
+    display: inline-block !important;
+    width: 100% !important;
+    padding-left: 10px
+}
+
+.btn_look_secret_02 {
+    display: inline-block;
+    position: absolute;
+    top: 3px;
+    right: 10px;
+    margin-left: 10px;
+    padding: 4px 8px;
+    border: 1px solid #d5d5d5;
+    border-radius: 3px;
+    background: #fefefe;
+    background: -moz-linear-gradient(top, #fefefe 0, #eee 100%);
+    background: -webkit-linear-gradient(top, #fefefe 0, #eee 100%);
+    background: linear-gradient(to bottom, #fefefe 0, #eee 100%);
+    color: #555f64;
+    line-height: 16px;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fefefe', endColorstr='#eeeeee', GradientType=0);
+    font-size: 12px
+}
+
+.prime_mark01 {
+    background: url(http://image.yeoboya.com/imgs/new_wedding/prime/background_bg.png) no-repeat;
+    background-size: 65px 24px;
+    background-position: 0 4px;
+    display: inline-block !important;
+    width: 65px
+}
+
+.prime_mark02 {
+    background: url(http://image.yeoboya.com/imgs/new_wedding/prime/background_bg.png) no-repeat;
+    background-size: 180px 24px;
+    background-position: 0 5px;
+    display: inline-block !important;
+    width: 180px
+}
+
+.prime_mark03 {
+    background: url(http://image.yeoboya.com/imgs/new_wedding/prime/background_bg.png) no-repeat;
+    background-size: 75px 24px;
+    background-position: 0 5px;
+    display: inline-block !important;
+    width: 75px
+}
+
+.prime_mark04 {
+    background: url(http://image.yeoboya.com/imgs/new_wedding/prime/background_bg.png) no-repeat;
+    background-size: 200px 24px;
+    background-position: 0 5px;
+    display: inline-block !important;
+    width: 200px
+}
+
+.btn_look_secret {
+    margin-left: 10px;
+    padding: 4px 8px;
+    border: 1px solid #d5d5d5;
+    border-radius: 3px;
+    background: #fefefe;
+    background: -moz-linear-gradient(top, #fefefe 0, #eee 100%);
+    background: -webkit-linear-gradient(top, #fefefe 0, #eee 100%);
+    background: linear-gradient(to bottom, #fefefe 0, #eee 100%);
+    color: #555f64;
+    line-height: 16px;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fefefe', endColorstr='#eeeeee', GradientType=0);
+    font-size: 12px;
+    position: relative
+}
+
+.btn_look_secret2 {
+    margin-left: 10px;
+    padding: 4px 8px;
+    border: 1px solid #d5d5d5;
+    border-radius: 3px;
+    background: #fefefe;
+    background: -moz-linear-gradient(top, #fefefe 0, #eee 100%);
+    background: -webkit-linear-gradient(top, #fefefe 0, #eee 100%);
+    background: linear-gradient(to bottom, #fefefe 0, #eee 100%);
+    color: #555f64;
+    line-height: 16px;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fefefe', endColorstr='#eeeeee', GradientType=0);
+    font-size: 12px;
+    position: relative;
+    top: -4px
+}
+
+.fam_list {
+    margin-left: 10px;
+    text-overflow: inherit;
+    height: auto;
+    white-space: normal;
+    padding-bottom: 5px
+}
+
+#secretArea {
+    cursor: pointer
+}
+
+.tit_txt02 {
+    z-index: 999;
+    font-size: 13px;
+    line-height: 20px;
+    margin: 4px 8px;
+    padding: 4px !important;
+    border: 1px solid #000;
+    border-radius: 3px;
+    background-color: #5b4868;
+    color: #fff;
+    padding-left: 8px !important
+}
+
+.tit_txt02 img {
+    vertical-align: middle
+}
+
+.test_X {
+    display: none !important
+}
+
+.mg_top {
+    position: relative;
+    margin-top: 3px
+}
+
+.btn_my {
+    position: absolute;
+    right: 5px;
+    width: 90px;
+    height: 33px;
+    line-height: 30px;
+    border-radius: 5px;
+    box-sizing: border-box
+}
+
+.btn_my:first-of-type {
+    top: 5px;
+    color: #fff;
+    border: 1px solid #00748f;
+    background: -moz-linear-gradient(top, #00b6e8 0, #009ec3 100%);
+    background: -webkit-linear-gradient(top, #00b6e8 0, #009ec3 100%);
+    background: linear-gradient(to bottom, #00b6e8 0, #009ec3 100%)
+}
+
+.btn_my:last-of-type {
+    top: 43px;
+    border: 1px solid #adadad;
+    background: -moz-linear-gradient(top, #fff 0, #ececec 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(100%, #ececec));
+    background: -webkit-linear-gradient(top, #fff 0, #ececec 100%);
+    background: -o-linear-gradient(top, #fff 0, #ececec 100%);
+    background: linear-gradient(to bottom, #fff 0, #ececec 100%)
+}
+
+.btn_my a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    font-size: 14px;
+    letter-spacing: -1px;
+    border-radius: 5px;
+    box-sizing: border-box
+}
+
+.btn_my .btn_up {
+    padding-left: 23px;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/img/btn_up.png) no-repeat 6px center;
+    background-size: 13px 10px
+}
+
+.btn_my .btn_modify {
+    padding-left: 30px;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/img/btn_modify.png) no-repeat 9px center;
+    background-size: 17px 17px
+}
+
+.dt_secret_wrap {
+    display: none;
+    position: fixed;
+    top: 200px;
+    left: 50%;
+    right: 0;
+    z-index: 1000;
+    width: 300px;
+    height: auto;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+    transform: translateX(-50%);
+    overflow: hidden
+}
+
+@media(min-width:360px) {
+    .dt_secret_wrap {
+        width: 320px
+    }
+}
+
+.dt_scrt_pop {
+    position: relative;
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    background-color: #f7d2d7;
+    color: #4f4f4f;
+    font-weight: bold;
+    font-size: 16px
+}
+
+.dt_scrt_pop .btn_scrt_clse {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 100%;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/secret/btn_pop_clse.png) no-repeat center center;
+    background-size: 15px 15px;
+    text-indent: -9999px;
+    cursor: pointer
+}
+
+.dt_secret {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 10px 20px 20px 20px;
+    box-sizing: border-box;
+    background: #fcebed;
+    background: -moz-linear-gradient(top, #fcebed 0, #e2e6ee 100%);
+    background: -webkit-linear-gradient(top, #fcebed 0, #e2e6ee 100%);
+    background: linear-gradient(to bottom, #fcebed 0, #e2e6ee 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fcebed', endColorstr='#e2e6ee', GradientType=0)
+}
+
+.scrt_top {
+    position: relative;
+    width: 100%;
+    height: auto
+}
+
+.scrt_top .top_line {
+    width: 100%;
+    height: 30px;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/secret/ico_top_line.png) no-repeat center bottom;
+    background-size: 262px 26px
+}
+
+.scrt_top .top_txt {
+    width: 100%;
+    height: auto;
+    line-height: 23px;
+    padding: 10px 15px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    background-color: #fff;
+    color: #2f2f2f;
+    font-size: 15px;
+    text-align: center
+}
+
+.scrt_top .scrt_img {
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    width: 50px;
+    height: 16px;
+    vertical-align: top;
+    text-indent: -9999px;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/secret/scrt_txt4.png) no-repeat center bottom;
+    background-size: 50px 16px
+}
+
+.scrt_top .fc_gray {
+    color: #686868
+}
+
+.scrt_top .fc_pink {
+    color: #e57575
+}
+
+.scrt_bot {
+    position: relative;
+    width: 100%;
+    height: auto
+}
+
+.scrt_bot:after {
+    content: "";
+    display: block;
+    clear: both
+}
+
+.scrt_bot .bot_txt {
+    width: 100%;
+    height: auto;
+    padding: 10px 0;
+    color: #656473;
+    text-align: center;
+    font-size: 16px;
+    clear: both
+}
+
+.scrt_bot .fc_purple {
+    color: #524f8e
+}
+
+.scrt_bot .btn_cancel {
+    width: 45%;
+    height: 37px;
+    line-height: 37px;
+    float: left;
+    border-radius: 5px;
+    background-color: #8c8b97
+}
+
+.scrt_bot .btn_request {
+    width: 45%;
+    height: 37px;
+    line-height: 37px;
+    float: right;
+    border-radius: 5px;
+    background-color: #be4a82
+}
+
+.scrt_bot .btn_cancel a,
+.scrt_bot .btn_request a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 15px
+}
+
+.scrt_bot .btn_cancel a:active,
+.scrt_bot .btn_request a:active {
+    background: rgba(0, 0, 0, 0.05)
+}
+
+.scrt_bot .btn_what_box {
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+    clear: both
+}
+
+.scrt_bot .btn_what {
+    width: 100%;
+    height: 37px;
+    line-height: 37px;
+    border-radius: 5px;
+    background: #524f8e
+}
+
+.scrt_bot .btn_what a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    text-align: center;
+    font-size: 15px
+}
+
+.scrt_bot .btn_what a:active {
+    background: rgba(0, 0, 0, 0.05)
+}
+
+.new_button_box ul li {
+    position: relative
+}
+
+.inter_new_badge {
+    position: absolute;
+    top: -3px;
+    right: 8px;
+    width: 28px;
+    height: 17px;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/interest/ico_new_badge.gif) no-repeat center center;
+    background-size: 28px 17px
+}
+
+.interest_view {
+    display: block;
+    position: relative;
+    z-index: 99;
+    top: 42px;
+    width: 286px;
+    height: 60px;
+    margin: 0 auto;
+    background-color: #caa7bd;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.55)
+}
+
+.inter_bg_arrow {
+    position: absolute;
+    top: -9px;
+    left: 100px;
+    width: 16px;
+    height: 9px;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/interest/img_arrow_01.png) no-repeat center center;
+    background-size: 16px 9px
+}
+
+.interest_view .inter_ani_list {
+    display: block;
+    position: absolute;
+    top: 4px;
+    left: 2px;
+    width: 98%;
+    height: 51px;
+    margin: 0;
+    padding: 0
+}
+
+.interest_view .inter_ani_list li {
+    float: left;
+    width: 25%;
+    margin: 0;
+    padding: 0
+}
+
+.floating-layer_in-myprofile {
+    display: inline-block;
+    position: absolute;
+    z-index: 10;
+    top: auto;
+    right: 4.7%;
+    margin-top: 123px;
+    width: 252px;
+    height: 80px;
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/img/floating-layer_in-myprofile.png') no-repeat 0 0;
+    background-size: 252px 80px
+}
+
+.floating-layer_in-myprofile_x {
+    display: inline-block;
+    position: absolute;
+    z-index: 20;
+    top: 0;
+    right: 0;
+    width: 25px;
+    height: 25px;
+    margin: 8px 10px 0 0;
+    border: 0;
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/img/floating-layer_in-myprofile_x.png') no-repeat 0 0;
+    background-size: 25px 25px
+}
+
+#wealthLayer {
+    display: none
+}
+
+#give-help_in-myprofile_1,
+#give-help_in-myprofile_2,
+#give-help_in-myprofile_3 {
+    z-index: 9
+}
+
+.give-help_btn-in-myprofile {
+    display: inline-block;
+    position: absolute;
+    top: auto;
+    width: 18px;
+    height: 18px;
+    margin: 10px 0 0 3px;
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/img4/ico_quest-mark.png') no-repeat 0 0;
+    background-size: 18px 18px
+}
+
+#photo_cer {
+    display: none;
+    position: absolute;
+    top: 30%;
+    margin-top: -126px;
+    z-index: 201
+}
+
+#photo_cer .photo_alarm_cer {
+    width: 282px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid #958b8a;
+    border-radius: 3px;
+    background-color: #fff;
+    border-radius: 5px;
+    text-align: center
+}
+
+.photo_cer_wrap {
+    clear: both;
+    width: 100%;
+    height: auto;
+    margin-top: 20px
+}
+
+.photo_cer_wrap .num_photo {
+    display: inline-block;
+    clear: both;
+    padding-top: 5px;
+    color: #818181;
+    font-size: 14px;
+    letter-spacing: -1px
+}
+
+.photo_cer_wrap .num_photo .num_txt {
+    color: #4f6dc1
+}
+
+.photo_cer_wrap .num_photo .max_con {
+    color: #b80a0e
+}
+
+.photo_cer_wrap .btn_cer {
+    display: block;
+    width: 256px;
+    text-align: center;
+    margin-bottom: 8px;
+    font-size: 14px
+}
+
+.photo_cer_wrap .btn_cer_bg {
+    display: block;
+    height: 38px;
+    line-height: 38px;
+    border: 1px solid #adadad;
+    border-radius: 3px;
+    background: -moz-linear-gradient(top, #fefefe 0, #ededed 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fefefe), color-stop(100%, #ededed));
+    background: -webkit-linear-gradient(top, #fefefe 0, #ededed 100%);
+    background: -o-linear-gradient(top, #fefefe 0, #ededed 100%);
+    background: -ms-linear-gradient(top, #fefefe 0, #ededed 100%);
+    background: linear-gradient(to bottom, #fefefe 0, #ededed 100%);
+    text-align: center;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fefefe', endColorstr='#ededed', GradientType=0)
+}
+
+.photo_cer_wrap .bf_color01 {
+    color: #666
+}
+
+.photo_cer_wrap .alarm_mg {
+    margin: 9px 10px
+}
+
+.marry_cer {
+    width: 257px;
+    height: 100%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border: 1px solid #adadad;
+    box-sizing: border-box;
+    border-radius: 3px
+}
+
+.marry_cer .mr_paper {
+    width: 100%;
+    height: 272px;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/img2/marry_cer.png) no-repeat 0 0;
+    background-size: 257px 272px
+}
+
+.marry_cer .mr_paper .paper_p {
+    font-size: 21px;
+    font-weight: 600;
+    color: #cc2929;
+    padding-top: 85px
+}
+
+.cer_modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.7);
+    height: 100%
+}
+
+.cer_modal_hint {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 2001;
+    background: rgba(0, 0, 0, 0.7);
+    height: 100%
+}
+
+.info_border:after {
+    content: '';
+    display: block;
+    clear: both
+}
+
+@media(min-width:375px) {
+    .info_border .txt_b {
+        width: 53% !important
+    }
+}
+
+@media(min-width:414px) {
+    .info_border .txt_b {
+        width: 60% !important
+    }
+}
+
+.first_head img {
+    margin: 6px 4px 0 3px !important
+}
+
+.info_txt_list .intro_c {
+    font-size: 13px;
+    color: #92626a;
+    text-align: center;
+    margin-bottom: 8px
+}
+
+.info_txt_list .c_btn {
+    text-align: center;
+    margin-top: 5px
+}
+
+.info_txt_list .c_btn a,
+.layer_txt .mc_03 a {
+    padding: 4px 30px !important;
+    font-size: 13px !important;
+    margin: 0 !important
+}
+
+.layer_header .mc_d {
+    margin-left: 25px
+}
+
+.layer_header .mc_01 {
+    display: inline-block;
+    margin: 3px 0 1px -6px;
+    font-size: 13px
+}
+
+.layer_header .mc_01 {
+    display: inline-block;
+    margin: 3px 0 1px -6px;
+    font-size: 13px
+}
+
+.layer_header .mc_02 {
+    font-size: 13px;
+    padding: 0;
+    margin: -1px
+}
+
+.layer_txt .mc_03 {
+    text-align: center;
+    margin-top: 7px
+}
+
+.layer_txt .mc_03 a {
+    font-size: 14px;
+    display: inline-block;
+    text-align: center;
+    padding: 5px 12px;
+    background-color: #b5836f;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 8px;
+    margin-bottom: 3px
+}
+
+.layer_txt .mc_03 a:active {
+    background-color: #a07564
+}
+
+.wedding_wrap .layer_cer {
+    margin: 0;
+    padding: 8px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    background-color: #fff;
+    border: 2px solid #777;
+    z-index: 17;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 16px;
+    width: 240px;
+    box-sizing: border-box;
+    box-shadow: 1px 3px 3px #cecece
+}
+
+.info_txt_list .layer_cer div {
+    line-height: normal;
+    color: #717379
+}
+
+.info_txt_list .layer_cer span {
+    display: inline;
+    width: auto;
+    height: auto;
+    margin-left: 0;
+    float: none;
+    color: inherit
+}
+
+.layer_cer .cer_p,
+.layer_cer .cer_c,
+.layer_cer .cer_p,
+.layer_cer .job_p {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    font-size: 13px
+}
+
+.layer_cer .cer_c {
+    color: #bd7f8a !important
+}
+
+.cer_p {
+    color: #717379
+}
+
+.job_p .cer_m {
+    color: #b26d8b
+}
+
+.layer_cer .cer_issue {
+    text-align: center
+}
+
+.layer_cer .cer_issue .cer_a,
+.info_txt_list .c_btn a {
+    font-size: 14px;
+    display: inline-block;
+    text-align: center;
+    padding: 5px 12px;
+    background-color: #bd7f8a;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 8px;
+    margin-bottom: 3px
+}
+
+.layer_cer .cer_issue .cer_a:active,
+.info_txt_list .c_btn a:active {
+    background-color: #a9727c
+}
+
+.wedding_wrap .cer_close {
+    position: absolute;
+    top: -3px;
+    right: -3px;
+    display: inline-block
+}
+
+.wedding_wrap .cer_close a {
+    display: block;
+    padding: 6px
+}
+
+.wedding_wrap .cer_close img {
+    width: 25px;
+    height: 25px
+}
+
+.info_box_wrap .cer_l {
+    top: -129px;
+    line-height: normal;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    font-family: "NotoSansKR-Regular", "sans-serif"
+}
+
+.layer_cer .job_p {
+    color: #697eb6;
+    margin-bottom: 2px
+}
+
+.job_l {
+    top: 80px !important;
+    width: 298px !important
+}
+
+.info_box_wrap .layer_cer .job_angle {
+    top: 75px !important
+}
+
+.layer_cer .arrow_b {
+    position: absolute;
+    right: 34px;
+    bottom: -15px
+}
+
+.s_font {
+    font-size: 13px !important;
+    height: 38px !important;
+    line-height: 38px !important
+}
+
+.alarm_layer .m_font {
+    font-size: 13px !important;
+    padding: 6px 6px !important
+}
+
+.alarm_layer .btn_layer_clse {
+    background-size: 22px 22px !important;
+    top: -1px !important
+}
+
+.alarm_layer {
+    padding: 0 6px !important
+}
+
+.info_text .personal_i {
+    display: inline-block;
+    padding-bottom: 2px;
+    color: #cd5b7c;
+    font-size: 12px
+}
+
+.s_st {
+    display: inline-block;
+    padding-top: 11px;
+    font-size: 12px;
+    line-height: 12px
+}
+
+.s_pro {
+    color: #4f65c4
+}
+
+#photoAbox:focus {
+    outline: 0
+}
+
+#photo_cer {
+    display: none;
+    position: absolute;
+    top: 30%;
+    margin-top: -126px;
+    z-index: 201
+}
+
+#photo_cer .photo_alarm_cer {
+    width: 282px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid #958b8a;
+    border-radius: 3px;
+    background-color: #fff;
+    border-radius: 5px;
+    text-align: center
+}
+
+.photo_cer_wrap {
+    clear: both;
+    width: 100%;
+    height: auto;
+    margin-top: 20px
+}
+
+.photo_cer_wrap .num_photo {
+    display: inline-block;
+    clear: both;
+    padding-top: 5px;
+    color: #818181;
+    font-size: 14px;
+    letter-spacing: -1px
+}
+
+.photo_cer_wrap .num_photo .num_txt {
+    color: #4f6dc1
+}
+
+.photo_cer_wrap .num_photo .max_con {
+    color: #b80a0e
+}
+
+.photo_cer_wrap .btn_cer {
+    display: block;
+    width: 256px;
+    text-align: center;
+    margin-bottom: 8px;
+    font-size: 14px
+}
+
+.photo_cer_wrap .btn_cer_bg {
+    display: block;
+    height: 38px;
+    line-height: 38px;
+    border: 1px solid #adadad;
+    border-radius: 3px;
+    background: -moz-linear-gradient(top, #fefefe 0, #ededed 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fefefe), color-stop(100%, #ededed));
+    background: -webkit-linear-gradient(top, #fefefe 0, #ededed 100%);
+    background: -o-linear-gradient(top, #fefefe 0, #ededed 100%);
+    background: -ms-linear-gradient(top, #fefefe 0, #ededed 100%);
+    background: linear-gradient(to bottom, #fefefe 0, #ededed 100%);
+    text-align: center;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fefefe', endColorstr='#ededed', GradientType=0)
+}
+
+.photo_cer_wrap .bf_color01 {
+    color: #666
+}
+
+.photo_cer_wrap .alarm_mg {
+    margin: 9px 10px
+}
+
+.marry_cer {
+    position: relative;
+    width: 258px;
+    height: 100%;
+    margin-bottom: 10px;
+    margin-left: 12px;
+    border: 1px solid #adadad;
+    box-sizing: border-box;
+    border-radius: 3px
+}
+
+.marry_cer .mr_paper {
+    width: 100%;
+    height: 272px;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/img2/marry_cer.png) no-repeat 0 0;
+    background-size: 257px 272px
+}
+
+.marry_cer .mr_paper .paper_p {
+    font-size: 21px;
+    font-weight: 600;
+    color: #cc2929;
+    padding-top: 85px
+}
+
+.photo_alarm_box .button_c {
+    position: absolute;
+    bottom: 6px;
+    left: 20px
+}
+
+.photo_alarm_box .button_c a {
+    display: block;
+    padding: 8px 38px 10px 38px;
+    border-radius: 3px;
+    background-color: #bd7f8a;
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px
+}
+
+.photo_alarm_box .button_c a:active {
+    background-color: #ae7680
+}
+
+.info_text .resist_gif {
+    width: 85px;
+    height: 80px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+    margin: 10px 20px
+}
+
+.info_text .resist_title {
+    width: 85px;
+    height: 22px;
+    line-height: 22px;
+    background-color: #916091;
+    color: #fff;
+    font-size: 13px;
+    letter-spacing: -0.2px
+}
+
+.info_text .resist_gif img {
+    margin-top: 2px;
+    padding-bottom: 3px
+}
+
+.info_text .special_a {
+    display: block;
+    width: 100%;
+    height: 100%
+}
+
+.info_text .special_a:active {
+    background-color: #ececec
+}
+
+.resist_gif .photo_num {
+    display: block;
+    position: absolute;
+    top: -4px;
+    right: -8px;
+    width: 18px;
+    height: 18px;
+    border-radius: 18px;
+    background-color: #3c3;
+    color: #fff;
+    line-height: 18px;
+    box-shadow: 1px 1px 2px #c8c8c8
+}
+
+.info_txt_list2 .special_view {
+    width: 85px;
+    height: 87px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+    position: relative;
+    display: inline-block;
+    background: #fff;
+    background: -moz-linear-gradient(top, #fff 69%, #fff 70%, #f3f3f3 100%);
+    background: -webkit-linear-gradient(top, #fff 69%, #fff 70%, #f3f3f3 100%);
+    background: linear-gradient(to bottom, #fff 69%, #fff 70%, #f3f3f3 100%)
+}
+
+.info_txt_list2 .badge_gif {
+    position: absolute;
+    top: -4px;
+    left: -1px
+}
+
+.info_txt_list2 .thumbnail_gif {
+    position: relative;
+    border: 1px solid #e1e0e0;
+    display: inline-block;
+    margin: 18px 1px 0 0;
+    width: 72px;
+    height: 56px
+}
+
+.info_txt_list2 .badge_delete {
+    position: absolute;
+    top: -10px;
+    right: -10px
+}
+
+.info_txt_list2 .certify_mark {
+    position: absolute;
+    bottom: -5px;
+    right: 0;
+    z-index: 3
+}
+
+.special_view .special_view_a {
+    display: block;
+    height: 87px
+}
+
+.special_view .special_view_a:active {
+    background-color: #ececec
+}
+
+.special_view .hide_d {
+    width: 72px;
+    height: 56px;
+    position: absolute;
+    z-index: 2
+}
+
+#media_save_ly {
+    display: none;
+    position: fixed;
+    top: 50%;
+    margin-top: -126px;
+    z-index: 20
+}
+
+#media_save_ly .photo_alarm_box {
+    border-radius: 5px;
+    text-align: center
+}
+
+.info_txt_list .wd_txt_badge {
+    position: absolute;
+    top: -53px;
+    right: 78px;
+    z-index: 100;
+    display: none
+}
+
+.info_txt_list .wd_txt_badge.on {
+    display: block
+}
+
+.new_button_box .btn_block01 {
+    display: block;
+    background: -moz-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(100%, #ededed));
+    background: -webkit-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -o-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -ms-linear-gradient(top, #fff 0, #ededed 100%);
+    background: linear-gradient(to bottom, #fff 0, #ededed 100%);
+    width: 94%;
+    margin: 0 auto;
+    margin-left: 4px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    font-size: 12px;
+    line-height: 40px;
+    text-align: center
+}
+
+.new_button_box .btn_block01 span {
+    background: url("http://image.yeoboya.com/imgs/new_wedding/mobile/img3/btn_ico_block.png") no-repeat 0 2px;
+    background-size: 16px 16px;
+    padding-left: 20px;
+    box-sizing: border-box
+}
+
+.new_button_box .btn_interest02 {
+    display: block;
+    background: -moz-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(100%, #ededed));
+    background: -webkit-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -o-linear-gradient(top, #fff 0, #ededed 100%);
+    background: -ms-linear-gradient(top, #fff 0, #ededed 100%);
+    background: linear-gradient(to bottom, #fff 0, #ededed 100%);
+    width: 94%;
+    margin: 0 auto;
+    margin-left: 4px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+    font-size: 12px;
+    line-height: 40px;
+    text-align: center
+}
+
+.new_button_box .btn_interest02 span {
+    background: url("http://image.yeoboya.com/imgs/new_wedding/mobile/img3/btn_ico_interest.png") no-repeat 0 3px;
+    background-size: 16px 14px;
+    padding-left: 20px;
+    box-sizing: border-box
+}
+
+.new_button_box .btn_talk02 {
+    display: block;
+    background: -moz-linear-gradient(top, #50393a 0, #341d1e 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #50393a), color-stop(100%, #341d1e));
+    background: -webkit-linear-gradient(top, #50393a 0, #341d1e 100%);
+    background: -o-linear-gradient(top, #50393a 0, #341d1e 100%);
+    background: -ms-linear-gradient(top, #50393a 0, #341d1e 100%);
+    background: linear-gradient(to bottom, #50393a 0, #341d1e 100%);
+    width: 94%;
+    margin: 0 auto;
+    margin-left: 4px;
+    border-radius: 5px;
+    border: 1px solid #50393a;
+    font-size: 12px;
+    line-height: 40px;
+    text-align: center
+}
+
+.new_button_box .btn_talk02 span {
+    background: url("http://image.yeoboya.com/imgs/new_wedding/mobile/img3/btn_ico_talk.png") no-repeat 0 2px;
+    background-size: 16px 16px;
+    padding-left: 20px;
+    box-sizing: border-box
+}
+
+.top_btn_fix {
+    background-color: #f3f2f7;
+    border: 0;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, .5)
+}
+
+.top_btn_fix .btn_block01 {
+    background: #727581;
+    background: -moz-linear-gradient(top, rgba(114, 117, 129, 1) 1%, rgba(107, 110, 121, 1) 100%);
+    background: -webkit-linear-gradient(top, rgba(114, 117, 129, 1) 1%, rgba(107, 110, 121, 1) 100%);
+    background: linear-gradient(to bottom, rgba(114, 117, 129, 1) 1%, rgba(107, 110, 121, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#727581', endColorstr='#6b6e79', GradientType=0);
+    border: 1px solid #646774;
+    color: #fff;
+    font-weight: 300
+}
+
+.top_btn_fix .btn_block01 span {
+    background: url("http://image.yeoboya.com/imgs/new_wedding/mobile/img3/btn_ico_block2.png") no-repeat 0 2px;
+    background-size: 16px 16px
+}
+
+.top_btn_fix .btn_interest02 {
+    background: #f06752;
+    background: -moz-linear-gradient(top, rgba(240, 103, 82, 1) 0, rgba(232, 99, 79, 1) 100%);
+    background: -webkit-linear-gradient(top, rgba(240, 103, 82, 1) 0, rgba(232, 99, 79, 1) 100%);
+    background: linear-gradient(to bottom, rgba(240, 103, 82, 1) 0, rgba(232, 99, 79, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f06752', endColorstr='#e8634f', GradientType=0);
+    border: 1px solid #e25b47;
+    color: #fff;
+    font-weight: 300
+}
+
+.top_btn_fix .btn_interest02 span {
+    background: url("http://image.yeoboya.com/imgs/new_wedding/mobile/img3/btn_ico_interest2.png") no-repeat 0 3px;
+    background-size: 16px 14px
+}
+
+.top_btn_fix .btn_talk02 {
+    background: #ffe355;
+    background: -moz-linear-gradient(top, rgba(255, 227, 85, 1) 0, rgba(252, 222, 70, 1) 100%);
+    background: -webkit-linear-gradient(top, rgba(255, 227, 85, 1) 0, rgba(252, 222, 70, 1) 100%);
+    background: linear-gradient(to bottom, rgba(255, 227, 85, 1) 0, rgba(252, 222, 70, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffe355', endColorstr='#fcde46', GradientType=0);
+    border: 1px solid #e3c842;
+    color: #272727;
+    font-weight: 300
+}
+
+.top_btn_fix .btn_talk02 span {
+    background: url("http://image.yeoboya.com/imgs/new_wedding/mobile/img3/btn_ico_talk2.png") no-repeat 0 2px;
+    background-size: 16px 16px
+}
+
+.profile_detail_txtbox .badge_id_certificate {
+    position: absolute;
+    width: 65px;
+    height: 80px;
+    top: 0;
+    right: 15px;
+    background: url("http://image.yeoboya.com/imgs//new_wedding/mobile/img/badge_id_certificate2.png") no-repeat center center;
+    background-size: 100%
+}
+
+@media screen and (max-width:350px) {
+    .profile_detail_txtbox .badge_id_certificate {
+        right: 5px
+    }
+}
+
+.profile_detail_txtbox .badge_id_open {
+    position: absolute;
+    width: 70px;
+    height: 80px;
+    top: 0;
+    right: 15px;
+    background: url("http://image.yeoboya.com/imgs/new_wedding/mobile/img/badge_id_certificate3.png") no-repeat center center;
+    background-size: 100%;
+    line-height: 12px;
+    padding-top: 28px;
+    box-sizing: border-box;
+    font-size: 10px;
+    text-align: center
+}
+
+@media screen and (max-width:350px) {
+    .profile_detail_txtbox .badge_id_open {
+        right: 5px
+    }
+}
+
+.only_id {
+    position: relative;
+    width: 67%;
+    height: 105px;
+    line-height: 105px;
+    color: #7d7d7d;
+    font-size: 12px;
+    float: left
+}
+
+.one_head {
+    border-bottom: none !important;
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important
+}
+
+.pop_id_wrap {
+    position: relative;
+    width: 100%;
+    height: auto;
+    border-radius: 0 0 10px 10px;
+    overflow: hidden
+}
+
+.pop_id_wrap .txt_id {
+    width: 100%;
+    height: auto;
+    margin-top: 20px
+}
+
+.pop_id_wrap .txt_id .txt_id_fail {
+    line-height: 1.5em;
+    margin-top: 10px;
+    color: #374148;
+    font-size: .9em
+}
+
+.pop_id_wrap .btn_id {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+    padding: 0 5%;
+    box-sizing: border-box
+}
+
+.pop_id_wrap .btn_id .btn_id_verify {
+    width: 100%;
+    height: 38px;
+    line-height: 38px;
+    background-color: #06b2c7;
+    color: #fff;
+    border-radius: 3px;
+    font-size: .9em;
+    cursor: pointer
+}
+
+.pop_id_wrap .btn_id .btn_id_clse {
+    width: 100%;
+    height: 38px;
+    line-height: 38px;
+    margin-top: 15px;
+    background-color: #a1a9ad;
+    color: #fff;
+    border-radius: 3px;
+    font-size: .9em;
+    cursor: pointer
+}
+
+.pop_id_wrap .txt_id_notice {
+    width: 100%;
+    height: auto;
+    line-height: 1.4em;
+    padding: 10px 2.5%;
+    box-sizing: border-box;
+    background-color: #f5f5f5;
+    color: #666;
+    text-align: left;
+    font-size: .8em
+}
+
+.profile_photo_box2 .badge_id {
+    position: absolute;
+    top: 45px;
+    left: 58px;
+    width: 20px;
+    height: 20px
+}
+
+.profile_photo_box2 .badge_id .count_img {
+    width: 20px !important;
+    height: 20px !important;
+    border: none !important;
+    margin: 0!imporatant
+}
+
+.profile_photo_box2 .badge_id p.count_num {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    font-size: 10px;
+    color: #fff;
+    line-height: 19px;
+    text-align: center;
+    padding: 0 !important
+}
+
+#imgSpinBg {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    top: 0
+}
+
+#imgSpin {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -36px;
+    margin-left: -36px;
+    width: 72px;
+    height: 72px
+}
+
+#bagdeSpin {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -25px;
+    width: 50px;
+    height: 45px
+}
+
+.certificate_list {
+    overflow: visible !important
+}
+
+.certificate_list .certificate_btn {
+    position: absolute;
+    right: 0;
+    bottom: 1px;
+    color: #263238;
+    font-size: 14px
+}
+
+.certificate_list .certificate_num {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: -6px;
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    border-radius: 18px;
+    background-color: #3c3;
+    color: #fff;
+    box-shadow: 1px 1px 2px #c8c8c8
+}
